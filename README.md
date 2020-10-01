@@ -1,3 +1,3 @@
-# Ml
-machine learning programs
+# Linear regression
+
 writing machine learning programs here!
